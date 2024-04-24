@@ -128,14 +128,14 @@ body {
 }
 
 .header__foto {
-	background-image: url('/Img/foto_1.svg');
+	background-image: url('../Img/foto_1.svg');
 	max-width: 764px;
 	height: 764px;
 	width: 100%;
 	z-index: -2;
 	background-position: 85% -73px;
 	background-repeat: no-repeat;
-	mask-image: url('/Img/Vector_1.svg');
+	mask-image: url('../Img/Vector_1.svg');
 	mask-repeat: no-repeat;
 	mask-size: 100%;
 	/*position: absolute;
@@ -279,7 +279,7 @@ body {
 
 .target {
 	background:
-		url(/Img/background.svg) no-repeat;
+		url("../Img/background.svg") no-repeat;
 	background-size: 2788.59px 2534.12px;
 	background-position: -440px -287px;
 }
@@ -423,7 +423,7 @@ body {
 
 .get {
 	
-	background: url(/Img/White_line_num2.svg) no-repeat;
+	background: url("../Img/White_line_num2.svg") no-repeat;
 	background-position: -85px 229px;;
 
 	background-size: 3345.66px 1973.73px;
@@ -465,7 +465,7 @@ body {
 }
 
 .get__item-1 {
-	background: url(/Img/Vector_num1.svg) no-repeat;
+	background: url("../Img/Vector_num1.svg") no-repeat;
 	background-position: 0 220px;
 	align-self: start;
 	padding-left: 30px;
@@ -475,7 +475,7 @@ body {
 }
 
 .get__item-2 {
-	background: url(/Img/Vector_num2.svg) no-repeat;
+	background: url("../Img/Vector_num2.svg") no-repeat;
 	background-position: 0 272px;
 	align-items: baseline;
 
@@ -486,7 +486,7 @@ body {
 }
 
 .get__item-3 {
-	background: url(/Img/Vector_num3.svg) no-repeat;
+	background: url("../Img/Vector_num3.svg") no-repeat;
 	background-position: 0 106px;
 	align-items: self-start;
 }
@@ -655,7 +655,7 @@ color: rgb(255, 255, 255);
 	width: 187.57px;
 		height: 191.13px;
 		background: rgb(230, 224, 220);
-		mask-image: url('/Img/Vector_2_foto_2_name.svg');
+		mask-image: url('../Img/Vector_2_foto_2_name.svg');
 		mask-repeat: no-repeat;
 		mask-size: 100%;
 
@@ -696,7 +696,7 @@ color: rgb(255, 255, 255);
 
 
 .price__foto {
-	background-image: url('/Img/foto_2.svg');
+	background-image: url('../Img/foto_2.svg');
 	background-size: cover;
 		max-width: 519px;
 		height: 529px;
@@ -753,7 +753,7 @@ color: rgb(255, 255, 255);
 }
 
 .reviews {
-	background-image: url('/Img/vector-line.svg');
+	background-image: url('../Img/vector-line.svg');
 	background-size: 2937px 1768px;
 		background-position: -930px 0px;
 		background-repeat: no-repeat;
