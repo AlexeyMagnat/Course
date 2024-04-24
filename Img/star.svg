@@ -1,0 +1,15 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip44_235">
+			<rect id="svg-gobbler (13) 4" width="24.000000" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="svg-gobbler (13) 4" width="24.000000" height="24.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip44_235)">
+		<path id="Vector" d="M23.43 8.82L15.66 8.1L12.57 0.93C12.35 0.43 11.64 0.43 11.42 0.93L8.33 8.1L0.56 8.82C0.02 8.87 -0.2 9.55 0.21 9.91L6.07 15.06L4.36 22.68C4.24 23.21 4.81 23.63 5.28 23.35L12 19.36L18.71 23.35C19.18 23.63 19.75 23.21 19.63 22.68L17.92 15.06L23.78 9.91C24.19 9.55 23.97 8.87 23.43 8.82Z" fill="#FFDC64" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M12.57 0.93C12.35 0.43 11.64 0.43 11.42 0.93L8.33 8.1L0.56 8.82C0.02 8.87 -0.2 9.55 0.21 9.91L6.07 15.06L4.36 22.68C4.24 23.21 4.81 23.63 5.28 23.35L6.78 22.46C6.99 13.92 10.95 7.91 14.09 4.47L12.57 0.93Z" fill="#FFC850" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

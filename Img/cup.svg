@@ -1,0 +1,23 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<mask id="mask15_272" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="50.000000" height="50.000000">
+		<path id="Vector" d="M0 0L50 0L50 50L0 50L0 0Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M50 0L0 0L0 50L50 50L50 0ZM48 48L2 48L2 2L48 2L48 48Z" fill="#307632" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<g mask="url(#mask15_272)">
+		<path id="Vector" d="M39.8879 23.6704L41.8525 23.6704C45.7451 23.6704 48.9258 26.854 48.9258 30.7437L48.9258 31.9233C48.9258 35.813 45.7422 38.9966 41.8525 38.9966L39.1846 38.9966" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M39.8906 27.7393L41.8523 27.7393C43.5059 27.7393 44.8564 29.0898 44.8564 30.7432L44.8564 31.9233C44.8564 33.5767 43.5059 34.9272 41.8523 34.9272L39.8906 34.9272" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M13.6235 43.4946C11.5608 41.1489 10.3054 38.0806 10.3054 34.7314L10.3054 28.4404M27.8767 21.5967L37.7131 21.5967C38.9099 21.5967 39.8909 22.5747 39.8909 23.7744L39.8909 34.7314C39.8909 38.0806 38.6353 41.1489 36.5725 43.4946" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M34.311 31.2451L34.311 32.8623C34.311 34.8071 33.5825 36.5894 32.3857 37.9512" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M34.311 26.854L34.311 26.8374" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M14.6604 10.959L14.6604 15.8267" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M17.7263 15.8267L14.6604 15.8267" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M31.5029 43.4941L43.5112 43.4941C43.8616 43.4941 44.1504 43.7832 44.1504 44.1333L44.1504 46.835C44.1504 48.0371 43.1665 49.0234 41.9617 49.0234L10.196 49.0234C8.99097 49.0234 8.00439 48.0371 8.00439 46.835L8.00439 44.1333C8.00439 43.7832 8.29321 43.4941 8.64624 43.4941L22.6248 43.4941" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M23.5667 15.1514C23.5667 10.5693 19.8308 6.83398 15.249 6.83398C10.667 6.83398 6.9314 10.5693 6.9314 15.1514C6.9314 19.7334 10.667 23.4688 15.249 23.4688C19.8308 23.4688 23.5667 19.7334 23.5667 15.1514Z" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M29.4236 15.1514C29.4236 7.34375 23.0566 0.976562 15.249 0.976562C7.44141 0.976562 1.07422 7.34375 1.07422 15.1514C1.07422 22.9585 7.44141 29.3257 15.249 29.3257C23.0566 29.3257 29.4236 22.9585 29.4236 15.1514Z" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M27.0527 43.4946L27.0723 43.4946" stroke="#307632" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

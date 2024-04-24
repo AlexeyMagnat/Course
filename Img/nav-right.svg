@@ -1,0 +1,11 @@
+<svg width="60.000000" height="60.000000" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="v-pagination__item" rx="30.000000" width="60.000000" height="60.000000" transform="matrix(-1 0 0 1 60 0)" fill="#307632" fill-opacity="1.000000"/>
+	<rect id="arrow-right" width="24.000000" height="24.000000" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 18 42)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="Vector" d="M32.43 23.17C32.24 23.17 32.05 23.25 31.9 23.39C31.61 23.68 31.61 24.16 31.9 24.46L37.43 30L31.9 35.53C31.61 35.82 31.61 36.3 31.9 36.59C32.18 36.88 32.66 36.88 32.96 36.59L39.03 30.52C39.32 30.24 39.32 29.75 39.03 29.47L32.96 23.39C32.81 23.25 32.62 23.17 32.43 23.17Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M38.33 29.25L21.5 29.25C21.09 29.25 20.75 29.59 20.75 30C20.75 30.4 21.09 30.75 21.5 30.75L38.33 30.75C38.74 30.75 39.08 30.4 39.08 30C39.08 29.59 38.74 29.25 38.33 29.25Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<g opacity="0.000000"/>
+</svg>
